@@ -1,0 +1,101 @@
+product_id,product_name,category,price,cost
+P0001,Product_1,Toys,64.55,186.68
+P0002,Product_2,Clothing,119.37,185.44
+P0003,Product_3,Toys,372.93,138.61
+P0004,Product_4,Sports,216.74,12.3
+P0005,Product_5,Clothing,124.0,152.49
+P0006,Product_6,Sports,107.43,164.22
+P0007,Product_7,Sports,215.56,115.06
+P0008,Product_8,Home & Kitchen,406.62,6.59
+P0009,Product_9,Clothing,352.09,88.36
+P0010,Product_10,Clothing,115.5,192.06
+P0011,Product_11,Electronics,55.45,28.7
+P0012,Product_12,Home & Kitchen,305.83,202.75
+P0013,Product_13,Toys,235.12,35.58
+P0014,Product_14,Books,48.61,76.83
+P0015,Product_15,Toys,313.07,216.12
+P0016,Product_16,Sports,104.22,22.04
+P0017,Product_17,Toys,121.67,75.9
+P0018,Product_18,Electronics,429.11,217.29
+P0019,Product_19,Books,146.21,160.74
+P0020,Product_20,Home & Kitchen,89.7,92.04
+P0021,Product_21,Toys,140.82,234.48
+P0022,Product_22,Toys,44.99,160.57
+P0023,Product_23,Sports,367.27,45.03
+P0024,Product_24,Books,142.27,231.72
+P0025,Product_25,Toys,282.91,172.73
+P0026,Product_26,Electronics,122.23,12.86
+P0027,Product_27,Home & Kitchen,206.57,21.22
+P0028,Product_28,Sports,439.42,82.1
+P0029,Product_29,Toys,254.62,221.75
+P0030,Product_30,Toys,234.84,69.9
+P0031,Product_31,Clothing,375.04,137.05
+P0032,Product_32,Toys,296.45,224.97
+P0033,Product_33,Books,187.38,249.34
+P0034,Product_34,Clothing,259.67,27.27
+P0035,Product_35,Electronics,431.94,42.45
+P0036,Product_36,Clothing,398.12,108.43
+P0037,Product_37,Electronics,198.54,150.99
+P0038,Product_38,Books,269.27,242.91
+P0039,Product_39,Electronics,343.34,33.07
+P0040,Product_40,Sports,377.93,193.31
+P0041,Product_41,Home & Kitchen,64.66,111.52
+P0042,Product_42,Books,11.59,181.91
+P0043,Product_43,Toys,139.06,127.64
+P0044,Product_44,Clothing,258.76,31.07
+P0045,Product_45,Toys,156.24,161.54
+P0046,Product_46,Sports,107.47,96.61
+P0047,Product_47,Clothing,274.3,195.76
+P0048,Product_48,Sports,460.06,151.74
+P0049,Product_49,Books,19.54,232.63
+P0050,Product_50,Home & Kitchen,127.33,64.01
+P0051,Product_51,Sports,474.01,25.99
+P0052,Product_52,Books,409.85,244.61
+P0053,Product_53,Sports,385.26,36.46
+P0054,Product_54,Books,473.96,45.46
+P0055,Product_55,Sports,437.49,108.67
+P0056,Product_56,Clothing,465.17,190.04
+P0057,Product_57,Toys,108.56,81.37
+P0058,Product_58,Toys,328.44,112.33
+P0059,Product_59,Sports,231.23,65.74
+P0060,Product_60,Electronics,175.66,149.14
+P0061,Product_61,Clothing,298.34,6.76
+P0062,Product_62,Toys,319.24,61.09
+P0063,Product_63,Electronics,431.22,22.36
+P0064,Product_64,Clothing,146.45,123.93
+P0065,Product_65,Sports,74.83,234.2
+P0066,Product_66,Sports,292.34,64.53
+P0067,Product_67,Books,405.67,51.65
+P0068,Product_68,Electronics,332.9,91.8
+P0069,Product_69,Books,238.84,183.62
+P0070,Product_70,Toys,330.19,163.31
+P0071,Product_71,Electronics,207.28,88.13
+P0072,Product_72,Electronics,131.84,51.6
+P0073,Product_73,Books,78.69,49.95
+P0074,Product_74,Books,132.41,231.2
+P0075,Product_75,Books,405.93,214.71
+P0076,Product_76,Electronics,34.79,249.82
+P0077,Product_77,Electronics,484.81,231.96
+P0078,Product_78,Clothing,91.49,123.98
+P0079,Product_79,Clothing,433.68,226.1
+P0080,Product_80,Clothing,195.7,246.4
+P0081,Product_81,Home & Kitchen,463.99,197.36
+P0082,Product_82,Home & Kitchen,217.27,239.54
+P0083,Product_83,Sports,334.32,124.23
+P0084,Product_84,Clothing,155.39,242.33
+P0085,Product_85,Sports,370.51,19.93
+P0086,Product_86,Home & Kitchen,38.01,148.12
+P0087,Product_87,Sports,460.5,135.13
+P0088,Product_88,Electronics,480.78,24.63
+P0089,Product_89,Clothing,43.58,21.65
+P0090,Product_90,Clothing,207.85,235.69
+P0091,Product_91,Sports,130.65,150.66
+P0092,Product_92,Sports,50.17,166.06
+P0093,Product_93,Sports,266.16,234.0
+P0094,Product_94,Clothing,338.17,81.98
+P0095,Product_95,Home & Kitchen,203.94,169.56
+P0096,Product_96,Home & Kitchen,234.04,232.61
+P0097,Product_97,Electronics,14.56,157.18
+P0098,Product_98,Sports,498.09,22.95
+P0099,Product_99,Clothing,257.88,37.45
+P0100,Product_100,Home & Kitchen,441.62,220.42
