@@ -1,0 +1,4 @@
+create schema if not exists mdm.raw;
+create schema if not exists mdm.bronze;
+create schema if not exists mdm.silver;
+create schema if not exists mdm.golden;
